@@ -81,7 +81,8 @@ Write a Telegram post based on the user_input{text}-
 )
 prompt2=PromptTemplate(
   template="""
-  Convert the Result{text} generated into the selected{language}
+  >Convert the generated post Result{text} into the selected{language}
+  >keep the hashtag in english only
   """,
   input_variables=["text","language"]
  )
