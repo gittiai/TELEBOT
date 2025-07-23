@@ -63,3 +63,26 @@ The prompt is engineered to **simulate human-written Telegram posts**, especiall
 
 >#JEEPreparationTips #NEETExamStrategy #PaperPhodnaHai
 
+**Input Query:** `Lectures vs question practice`  
+**Selected Tone:** Tips  
+**Output 4:** 
+>Lectures vs Question Practice: The Ultimate JEE/NEET Strategy
+
+>As a seasoned JEE/NEET coach, I've seen many students struggle with this age-old dilemma. While lectures provide a solid foundation, question practice is where the real magic happens. Focus on solving a wide range of questions, and you'll be surprised at how much you retain.
+
+>❤️ Drop a ❤️ if you agree that question practice is key to JEE/NEET success!
+
+>reply with your score if you've attempted a recent JEE/NEET mock test
+
+>#JEE #NEET #JEEAdvanced #PaperPhodnaHai
+
+**Input Query:** `Coaching module vs Books`  
+**Selected Tone:** Tips  
+**Output 5:** 
+>When it comes to cracking JEE/NEET, the age-old debate is: Coaching module or Books?
+
+>Tip: While books provide a solid foundation, coaching modules offer personalized guidance, practice tests, and expert mentorship. Don't just rely on books; supplement your learning with a good coaching module.
+
+>Drop a ❤️ if you're a bookworm! Reply with your score if you're a coaching module pro!
+
+>#JEEPreparationTips #NEETPreparation #IITJEE #PaperPhodnaHai
