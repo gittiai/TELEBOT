@@ -31,35 +31,35 @@ The prompt is engineered to **simulate human-written Telegram posts**, especiall
 **Output 1:**  
 >Don't let your JEE/NEET drop affect your future
 
->Regret is a heavy burden to carry, but it's never too late to learn from your mistakes. If you've dropped a year, use it to strengthen your >concepts and come back stronger. You got this!
+>Regret is a heavy burden to carry, but it's never too late to learn from your mistakes. If you've dropped a year, use it to strengthen your concepts and come back stronger. You got this!
 
 >Drop a ❤️ if you're determined to come back stronger! Reply with your score to share your story and get support!
 
-#JEERegret #NEETDrop #PaperPhodnaHai
+>#JEERegret #NEETDrop #PaperPhodnaHai
 
 **Input Query:** `rank vs percentile`  
 **Selected Tone:** Motivational  
 **Output 2:** 
-Don't get confused between Rank and Percentile!
+>Don't get confused between Rank and Percentile!
 
-Understand the difference and boost your confidence. Rank is the position you hold, while Percentile shows how you performed compared to others. Focus on improving your percentile, and your rank will follow.
+>Understand the difference and boost your confidence. Rank is the position you hold, while Percentile shows how you performed compared to others. Focus on improving your percentile, and your rank will follow.
 
-Drop a ❤️ if you're feeling motivated to crack JEE/NEET!
+>Drop a ❤️ if you're feeling motivated to crack JEE/NEET!
 
-Reply with your score if you want to compare and learn from each other!
+>Reply with your score if you want to compare and learn from each other!
 
-#JEE #NEET #PercentileMatters #PaperPhodnaHai
+>#JEE #NEET #PercentileMatters #PaperPhodnaHai
 
 **Input Query:** `tough shift`  
 **Selected Tone:** Tips  
 **Output 3:** 
-Tough shift ahead? Don't worry, we've got you covered. Here are some tips to help you tackle the JEE/NEET exam:
+>Tough shift ahead? Don't worry, we've got you covered. Here are some tips to help you tackle the JEE/NEET exam:
 
-Focus on your weak areas and make a study plan. Practice with previous year's papers and mock tests. Stay calm and manage your time effectively during the exam.
+>Focus on your weak areas and make a study plan. Practice with previous year's papers and mock tests. Stay calm and manage your time effectively during the exam.
 
-Drop a ❤️ if you're feeling motivated!
+>Drop a ❤️ if you're feeling motivated!
 
-Reply with your score if you've already appeared for the exam.
+>Reply with your score if you've already appeared for the exam.
 
-#JEEPreparationTips #NEETExamStrategy #PaperPhodnaHai
+>#JEEPreparationTips #NEETExamStrategy #PaperPhodnaHai
 
