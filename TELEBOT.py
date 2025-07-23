@@ -6,8 +6,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-st.sidebar.image("https://i.pinimg.com/736x/ed/c7/15/edc71589ae31bf6e170926b883ada8c6.jpg", width=250)  
-#st.sidebar.image("https://i.pinimg.com/736x/de/3f/3e/de3f3eb83ef7560f4ceba46c5d204313.jpg", width=250)  
+st.sidebar.image("https://i.pinimg.com/736x/ed/c7/15/edc71589ae31bf6e170926b883ada8c6.jpg", width=250)    
 GROQ_API = os.getenv("GROQ_API_KEY")
 GEMINI_API_KEY =os.getenv("GEMINI_API_KEY")
 llm1=ChatGroq(model="llama-3.1-8b-instant",temperature=0.3)
@@ -87,7 +86,7 @@ prompt2=PromptTemplate(
   input_variables=["text","language"]
  )
 
-languages = ["Hindi", "Telugu", "Marathi", "English", "Tamil", "Gujarati", "Urdu", "Kannada", "Odia", "Malayalam", "Punjabi", "Nepali"]
+languages = ["Hindi", "Telugu", "Marathi", "English", "Tamil", "Gujarati", "Urdu", "Kannada", "Odia", "Malayalam", "Punjabi"]
 
 col1, col2, col3 = st.columns(3)
 
