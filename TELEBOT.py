@@ -143,7 +143,7 @@ with col3:
  st.subheader("Post 3")
  chain3=prompt|llm3
  if st.button("Generate Post",key="generate_btn_3"):
-   result3=chain2.invoke({"text":user_input,"tone":tone})
+   result3=chain3.invoke({"text":user_input,"tone":tone})
    st.session_state.gen_result3 = result3.content
    st.session_state.history.append({
     "user_input":user_input,
@@ -155,7 +155,7 @@ with col3:
   lang3 = st.selectbox("Translate to", languages, key="lang_3")
   trans_chain3=prompt2|llm3
   if st.button("Generate",key="translate_btn_3"):
-   result_trans3=trans_chain2.invoke({"text":st.session_state.gen_result3,"language":lang3})
+   result_trans3=trans_chain3.invoke({"text":st.session_state.gen_result3,"language":lang3})
    st.markdown(result_trans3.content)
    st.session_state.history.append({
     "user_input":user_input,
