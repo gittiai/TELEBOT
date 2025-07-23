@@ -17,5 +17,8 @@ A GenAI tool that converts JEE-related keywords or questions into engaging Teleg
 
  ● Built using Streamlit + LangChain
 
-
-
+The prompt is engineered to **simulate human-written Telegram posts**, especially tailored for JEE/NEET students. Key design elements:
+- 70–80 words max to maintain short-form engagement
+- Informal yet purposeful tone (avoids generic ChatGPT style)
+- Forced line spacing between post, CTA, and hashtags
+- Encourages real interaction (like reactions, replies)
