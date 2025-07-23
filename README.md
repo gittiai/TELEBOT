@@ -29,11 +29,11 @@ The prompt is engineered to **simulate human-written Telegram posts**, especiall
 **Input Query:** `dropper regret`  
 **Selected Tone:** Motivational  
 **Output 1:**  
-Don't let your JEE/NEET drop affect your future
+>Don't let your JEE/NEET drop affect your future
 
-Regret is a heavy burden to carry, but it's never too late to learn from your mistakes. If you've dropped a year, use it to strengthen your concepts and come back stronger. You got this!
+>Regret is a heavy burden to carry, but it's never too late to learn from your mistakes. If you've dropped a year, use it to strengthen your >concepts and come back stronger. You got this!
 
-Drop a ❤️ if you're determined to come back stronger! Reply with your score to share your story and get support!
+>Drop a ❤️ if you're determined to come back stronger! Reply with your score to share your story and get support!
 
 #JEERegret #NEETDrop #PaperPhodnaHai
 
