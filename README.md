@@ -5,7 +5,7 @@ A GenAI tool that converts JEE-related keywords or questions into engaging Teleg
 📌 Features :
  ● Input: 1–3 keywords or a full query (e.g., rank vs percentile, how to stay focused as a dropper?)
 
- ● LLM-Powered generation using Gemini Pro and Groq
+ ● LLM-Powered generation using Groq
 
  ● Tones supported: Motivational, Relatable, Announcement Style
 
